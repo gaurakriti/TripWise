@@ -8,6 +8,7 @@ TripWise is a MERN system that provides users with the ability to search for, co
 <br>
 – User Authentication: Provides a secure authentication system for user accounts and booking management using
 JSON Web Tokens (JWT).
+<br>
 – Responsive Design: Responsive design for use on desktop and mobile devices.
 <br>
 – Admin Panel: Created an admin panel for managing listings, prices, and user accounts using MongoDB for the
